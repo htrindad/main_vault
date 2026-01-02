@@ -14,6 +14,7 @@ How people lose their defenses when their ego is stroked, and their individual b
 - How people developed rose up from being generally disliked to achieving higher form of power
 - How usefulness makes people more drawn to you
 - People will do anything you want, as long as you give them higher credit for it[^1]
+- How individuals will imprint on those who willingly appropriate to them
 
 
 	[^1]: Read [[Do not Criticize Condemn or Complain]] & [[Cause in the other people an eager want]] in the book [How to win friends and influence people](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)

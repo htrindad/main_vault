@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Analysis/TAoS/The Charmer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "The Charmer"
             }
           }
         ],
@@ -231,9 +231,9 @@
   },
   "active": "57f46bd5ae97b80d",
   "lastOpenFiles": [
+    "Index.md",
     "Analysis/TAoS/The Charismatic.md",
     "Analysis/TAoS/The Charmer.md",
-    "Index.md",
     "Do not Criticize Condemn or Complain.md",
     "School of Direct Socionics (SDS)",
     "Welcome.md",
