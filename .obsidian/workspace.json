@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Analysis/TAoS/The Charmer.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -211,13 +211,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "60ac6c37dc2a5e13",
   "lastOpenFiles": [
-    "Analysis/TAoS/The Charismatic.md",
+    "Do not Criticize Condemn or Complain.md",
     "Analysis/TAoS/The Charmer.md",
+    "Analysis/TAoS/The Charismatic.md",
     "School of Direct Socionics (SDS)",
     "Welcome.md",
     "Analysis/TAoS",

@@ -5,4 +5,15 @@
 How people lose their defenses when their ego is stroked, and their individual being is represented as the center of the universe.
 
 ## Parts
-	
+
+- Understanding of how a seduction without sexuality can be most efficient
+- The origin of the word "charm"
+- How people disarm themselves through the ego relief
+- The methods and behaviors that describe The Charmer archetype
+- Historical examples of charmers
+- How people developed rose up from being generally disliked to achieving higher form of power
+- How usefulness makes people more drawn to you
+- People will do anything you want, as long as you give them higher credit for it[^1]
+
+
+	[^1]: Read [[Do not Criticize Condemn or Complain]] & [[Cause in the other people an eager want]] in the book [How to win friends and influence people](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
