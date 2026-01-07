@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
+                "file": "dynamic_static.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introverted Intuition"
+              "title": "dynamic_static"
             }
           }
         ],
@@ -217,9 +217,9 @@
   },
   "active": "60ac6c37dc2a5e13",
   "lastOpenFiles": [
-    "mental function.md",
     "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
     "dynamic_static.md",
+    "mental function.md",
     "Analysis/TAoS/The Charmer.md",
     "School of Direct Socionics (SDS)/School of Direct Socionics.md",
     "School of Direct Socionics (SDS)/Dichotomies",

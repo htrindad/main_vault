@@ -1,0 +1,1 @@
+Work in progress. For more info, check [this link](https://classicsocionics.wordpress.com/static-dynamic/)
