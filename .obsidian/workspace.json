@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School of Direct Socionics (SDS)/Dichotomies/dynamic_static.md",
+                "file": "School of Direct Socionics (SDS)/Dichotomies/context_content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dynamic_static"
+              "title": "context_content"
             }
           }
         ],
@@ -218,6 +218,7 @@
   "active": "a3bb6a2264f52299",
   "lastOpenFiles": [
     "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
+    "School of Direct Socionics (SDS)/Dichotomies/context_content.md",
     "School of Direct Socionics (SDS)/Dichotomies/dynamic_static.md",
     "mental function.md",
     "Analysis/TAoS/The Charmer.md",

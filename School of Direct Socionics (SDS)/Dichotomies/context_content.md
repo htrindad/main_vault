@@ -1,0 +1,1 @@
+This is a working project, please check [this link](https://classicsocionics.wordpress.com/extraversion-introversion/)
