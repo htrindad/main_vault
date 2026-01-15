@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School of Direct Socionics (SDS)/Dichotomies/context_content.md",
+                "file": "Analysis/HTWFAIP/Do not Criticize Condemn or Complain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "context_content"
+              "title": "Do not Criticize Condemn or Complain"
             }
           }
         ],
@@ -46,10 +46,14 @@
             "id": "7e1587e2a2ed53a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/TAoS/The Charmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Charmer"
             }
           }
         ]
@@ -215,13 +219,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3bb6a2264f52299",
+  "active": "7e1587e2a2ed53a5",
   "lastOpenFiles": [
-    "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
+    "Analysis/HTWFAIP/Do not Criticize Condemn or Complain.md",
+    "Analysis/TAoS/The Charmer.md",
+    "Analysis/HTWFAIP/Untitled.md",
     "School of Direct Socionics (SDS)/Dichotomies/context_content.md",
+    "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
     "School of Direct Socionics (SDS)/Dichotomies/dynamic_static.md",
     "mental function.md",
-    "Analysis/TAoS/The Charmer.md",
     "School of Direct Socionics (SDS)/School of Direct Socionics.md",
     "School of Direct Socionics (SDS)/Dichotomies",
     "School of Direct Socionics (SDS)/IMEs/Information Metabolism Elements.md",
@@ -239,7 +245,6 @@
     "School of Direct Socionics (SDS)/IMEs",
     "IME's.md",
     "Analysis/TAoS/The Charismatic.md",
-    "Do not Criticize Condemn or Complain.md",
     "School of Direct Socionics (SDS)",
     "Welcome.md",
     "Analysis/TAoS",
