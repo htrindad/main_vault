@@ -1,4 +1,5 @@
 > I'm lavish in my praise, and hearty in my probation
+> — Charles Schwab (1937-present)
 
 ## Unity
 
