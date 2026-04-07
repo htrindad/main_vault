@@ -9,6 +9,4 @@ Extroverted sensing is the notion of the physical appearance and visual stimuli 
 People who are [[kinetic_potential|strong]] ![[Se.png|15]] are very literal with meaning, and lack the patience to read between the lines. Something that is more close to ![[Ni.png|15]] or ![[Ne.png|15]] types.[^2]
 
 [^1]: as in, "lacking of resources"
-[^2]
-
 [^2]: See [[intuitive_sensing]] dichotomy
