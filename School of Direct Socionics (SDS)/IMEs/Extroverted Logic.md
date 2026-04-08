@@ -8,4 +8,4 @@ Extroverted logic, is the notion of kinetic movement, motion, method expressed b
 
 ## ADDENDUM
 
-While ![Se|15](Se.png), deals with the *willness* to do aggression and engagement of physical activity (to some degree, ![[Se.png|15]], is the existence of such drawing, ![[Te.png|15]] is the definition of said will. How is it expressed is defined by Black logic).
+While ![Se|10](Se.png), deals with the *willness* to do aggression and engagement of physical activity (to some degree, ![[Se.png|15]], is the existence of such drawing, ![[Te.png|15]] is the definition of said will. How is it expressed is defined by Black logic).
