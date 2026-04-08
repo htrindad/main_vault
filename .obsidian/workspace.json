@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "709da034602d7026",
+        "id": "94a223ba0ced06aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1c5cfc3b23da18b2",
+            "id": "c9dbccf71bf28649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School of Direct Socionics (SDS)/IMEs/Extroverted Logic.md",
+                "file": "School of Direct Socionics (SDS)/IMEs/Introverted Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extroverted Logic"
+              "title": "Introverted Ethics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0509e1fe19a2ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae3af624a141ea86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School of Direct Socionics (SDS)/IMEs/Extroverted Sensing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extroverted Sensing"
             }
           }
         ]
@@ -184,16 +204,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c5cfc3b23da18b2",
+  "active": "ae3af624a141ea86",
   "lastOpenFiles": [
-    "Untitled.md",
+    "School of Direct Socionics (SDS)/IMEs/Introverted Ethics.md",
+    "School of Direct Socionics (SDS)/IMEs/Extroverted Sensing.md",
     "School of Direct Socionics (SDS)/IMEs/Extroverted Logic.md",
+    "School of Direct Socionics (SDS)/Structure/blocks.md",
+    "School of Direct Socionics (SDS)/Structure",
+    "School of Direct Socionics (SDS)/Profiles/ILI by. Hugo Parada.md",
+    "School of Direct Socionics (SDS)/School of Direct Socionics.md",
+    "School of Direct Socionics (SDS)/Profiles",
+    "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
+    "School of Direct Socionics (SDS)/IMEs/Information Metabolism Elements.md",
+    "Untitled.md",
     "Hugo's profile/3.31.26 Therapy & Life Coach Session.md",
     "Dichotomies.md",
-    "School of Direct Socionics (SDS)/School of Direct Socionics.md",
     "Index.md",
-    "School of Direct Socionics (SDS)/IMEs/Introverted Intuition.md",
-    "School of Direct Socionics (SDS)/IMEs/Extroverted Sensing.md",
     "School of Direct Socionics (SDS)/Dichotomies/intuitive_sensing.md",
     "School of Direct Socionics (SDS) - Copy/IMEs/Introverted Intuition.md",
     "School of Direct Socionics (SDS) - Copy/IMEs/Information Metabolism Elements.md",
@@ -210,11 +236,6 @@
     "Hugo's profile/3.31.26 Therapy & Life Coach Session no_backstick.md",
     "Hugo's profile/3.31.26 Therapy & Life Coach Session - Copy.md",
     "Hugo's profile/3.31.26 Therapy & Life Coach Session no_backstick2.md",
-    "Hugo's profile/3.31.26 Therapy & Life Coach Session no_backtick.md",
-    "Hugo's profile/3.31.26 Therapy & Life Coach Session no_back.md",
-    "Hugo's profile/3.31.26 Therapy & Life Coach Session no .md",
-    "Analysis/HTWFAIP/Do not Criticize Condemn or Complain.md",
-    "Hugo's profile/markdown.md",
     "Hugo's profile",
     "School of Direct Socionics (SDS)/Dichotomies",
     "Images/Ni.png",
@@ -227,8 +248,6 @@
     "Images/Ne.png",
     "Images",
     "School of Direct Socionics (SDS)/IMEs",
-    "School of Direct Socionics (SDS)",
-    "Analysis/TAoS",
-    "Analysis/HTWFAIP"
+    "School of Direct Socionics (SDS)"
   ]
 }

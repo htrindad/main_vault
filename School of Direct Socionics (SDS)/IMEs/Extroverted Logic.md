@@ -1,10 +1,12 @@
 ![[Te.png|300]]
 
-Also known as "Black Logic", "Pragmatism", "P", "Movement Logic", "Objective Logic", "Te"
+Also known as "Black logic", "Pragmatism", "P", "Movement Logic", "Objective Logic", "Te"
 
 ## Description by Hugo Parada
 
-Extroverted logic, is the notion of kinetic movement, motion, method expressed by objects (and so, people). ![[Te.png|15]] also deals wit the notion of aggression, rules/laws, fighting and physical activity (on contrary to how the typology community confuses with [[Extroverted Sensing|Black sensing]], see [ADDENDUM](#ADDENDUM)). It is also described as [work](https://en.wikipedia.org/wiki/Work_(physics)), logical formulae, as well as the **use** of force (keyword is '**use**'). How things work, their usability, and how to use them (think of it as programming classes, that have their own uses and methods for certain goals), the "hows".
+Extroverted logic, is the notion of kinetic movement, motion, method expressed by objects (and so, people). ![[Te.png|15]] also deals wit the notion of aggression, rules/laws, fighting and physical activity (on contrary to how the typology community confuses with [[Extroverted Sensing|Black sensing]], see [ADDENDUM](#ADDENDUM)). It is also described as [work](https://en.wikipedia.org/wiki/Work_(physics)), logical formulae, as well as the **use** of force (keyword is '**use**'). How things work, their usability, and how to use them (think of it as programming classes, that have their own uses and methods for certain goals), the "hows". People who have this element as a [[dynamic_static|mental function]] can understand, and describe how systems work, how people act, methods to do tasks, knowing if an approach is logical or illogical (as in effective), know how to instruct others, and can describe direct movement. As a [[dynamic_static|dynamic]] element, it takes the object's data as it's in motion, and evaluates it in real-time. As a [[context_content|extroverted]] element, it takes the object itself as is, and so it does not link any other kind of data into it's equation.
+
+People who are [[kinetic_potential|strong]] ![[Te.png|15]] are accurate with their movements, and if their ![[Te.png|15]], is in the [[blocks#Ego|ego block]], have also a precise factor to the use of ![[Te.png|15]], making them very good surgeons.
 
 ## ADDENDUM
 
