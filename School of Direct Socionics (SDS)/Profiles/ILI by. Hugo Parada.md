@@ -1,0 +1,7 @@
+## Superego (![[Si.png|20]]![[Fe.png|20]])
+
+The first captured input by the ILI is how is their own space reflected. They try to know how comfortable and safe is the environment, and their own well-being. Then, they check for the emotional volatility of the current occupied space and check for spatial mood, where they try to take absolute certainty over the implicit motions present in their space. The higher the volatility, the higher the unpredictability, and because of that, the space is not safe. For this reason, ILIs are most described as "hikikomori" by society. Due to their neurotic focus on their personal space ![[Si.png|15]], and due to their fear of misjudging the emotions of others ![[Fe.png|15]], the ILI will most often hide himself in his own space where, no one can invade them.
+
+The ILI overanalyzes the current environment to a neurotic and rigid degree, the slightest anomaly in this area, will cause him to output an inability to know how to react to the current situation, believing that anything they do, will disrupt the vibe, and so give society a chance to get inside their personal space.
+
+Let's say for example, that an ILI likes to express themselves through dancing. Due to the fear that the discovery of what the ILI does behind close doors ![[Si.png|15]] will cause them to be named as "cringe", or "weird", the ILI will have a burst of anger that is usually not shown ![[Fe.png|15]], in an attempt to save their reputation.
